@@ -1,8 +1,8 @@
 # prefix,country_code,region_code,city,postal
-2a05:dfc1:6600::/48,US,,,
+2a05:dfc1:6600::/48,SK,,,
 2a05:dfc1:6601::/48,US,,,
 2a05:dfc1:6602::/48,SG,,,
-2a05:dfc1:6603::/48,AQ,,,
+2a05:dfc1:6603::/48,TW,,,
 2a05:dfc1:6604::/48,KP,,,
 2a05:dfc1:6605::/48,CN,,,
 2a05:dfc1:6606::/48,LU,,,
